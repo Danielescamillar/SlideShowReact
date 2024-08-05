@@ -1,0 +1,29 @@
+.img-slider {
+    height: 80px;
+    width: 100px;
+    margin: 1%;
+    padding: 4px;
+}
+
+.img-slider:hover {
+    height: 80px;
+    width: 100px;
+    margin: 1%;
+    padding: 4px;
+    border: 1px solid rgb(0, 255, 200);
+}
+
+.img-slider-selected {
+
+    box-shadow: 0 0 30px rgb(2, 248, 215);
+    height: 80px;
+    width: 100px;
+    margin: 1%;
+    padding: 4px;
+}
+
+.div-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
